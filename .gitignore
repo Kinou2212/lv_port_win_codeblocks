@@ -57,3 +57,4 @@ obj/
 .DS_Store
 .vscode
 *.bak
+cmake-build-debug/
